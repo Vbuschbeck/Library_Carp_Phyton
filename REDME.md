@@ -1,3 +1,3 @@
 # Phyton Indroduction
 ## Authors
-Vicky
+Vicky Buschbeck
